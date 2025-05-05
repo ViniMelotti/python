@@ -1,2 +1,0 @@
-# python
-estou indo bem 

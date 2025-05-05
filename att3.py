@@ -7,11 +7,11 @@ if numlado < 3:
 else:
     if numlado == 3:
         area = ((medida*medida)*(3**(1/2)))/4
-        print(f"é um triangulo com {area} de area ")
+        print(f"é um triangulo com {area:.2f}cm de area ")
     else:
         if numlado == 4:
             area = medida*medida
-            print(f"é um quadrado com {area} de area ")
+            print(f"é um quadrado com {area}cm de area ")
         else:
             if numlado == 5:
                 print("é um pentagono ")
