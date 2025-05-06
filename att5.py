@@ -15,3 +15,13 @@ if quantidade > 0:
 else:
     print("Nenhum número válido foi digitado.")
 
+#soma = 0
+# cont -1 
+# num = 1
+
+# while (num != '0')
+#   num = int(input('digite um numero'))
+#   cont = cont + 1
+#   soma = soma + num
+# 
+# print(cont, soma/cont)
